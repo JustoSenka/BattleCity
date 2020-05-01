@@ -1,6 +1,10 @@
 # BattleCity
 
-Battle City game recreated in Unity Engine 5.
+Battle City (NES) game recreated in Unity Engine 5.
+
+A complete copy of battle city game with identical mechanics, multiplayer, powerups and tileset. Contains 5 starting maps, which are stored in easily editable .txt files.
+
+2D, Shooter, Multiplayer
 
 Gameplay video: https://youtu.be/1TupwICDR58
 
